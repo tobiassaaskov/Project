@@ -9,6 +9,7 @@ const GlobalStyles = StyleSheet.create({
   },
   text: {
     fontWeight: "bold",
+    fontFamily: "Roboto",
   },
 });
 
